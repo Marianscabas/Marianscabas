@@ -1,7 +1,11 @@
 ### Marian Cabana Cabas
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+### 😂 Random Dev Meme
+
+
+
+<img src="https://media1.giphy.com/media/W4IY7zQdRh7Ow/giphy.gif?cid=ecf05e4786ip4iraxwjfs1yrwbzaojoo6zst8q7f7xzvixen&rid=giphy.gif&ct=g/" width="512px"/>
 
 
 ## 🌐 Socials:
@@ -17,12 +21,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Marianscabas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Marianscabas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<div style="width:100%;height:0;padding-bottom:68%;position:relative;"><iframe src="https://giphy.com/embed/W4IY7zQdRh7Ow" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/apple-marceline-W4IY7zQdRh7Ow">via GIPHY</a></p>
