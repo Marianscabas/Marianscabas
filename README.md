@@ -1,9 +1,6 @@
 ### Marian Cabana Cabas
 
 # 💫 About Me:
-### 😂 Random Dev Meme
-
-
 
 <img src="https://media1.giphy.com/media/W4IY7zQdRh7Ow/giphy.gif?cid=ecf05e4786ip4iraxwjfs1yrwbzaojoo6zst8q7f7xzvixen&rid=giphy.gif&ct=g/" width="512px"/>
 
